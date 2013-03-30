@@ -1,6 +1,6 @@
 [[events]]
 
-== Updates are cooler
+== Showing off is coolest
 
 Beans may produce and consume events. This facility allows beans to interact in a completely decoupled fashion, with no compile-time dependency between the interacting beans. Most importantly, it allows stateful beans in one architectural tier of the application to synchronize their internal state with state changes that occur in a different tier.
 
