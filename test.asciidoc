@@ -9,36 +9,6 @@ An event comprises:
 * A Java object - the _event object_
 * A set of instances of qualifier types - the _event qualifiers_
 
-
-
-[[anchor-1]]
-Paragraph or block 1.
-
-anchor:anchor-2[]
-Paragraph or block 2.
-
-<<anchor-1>>,
-<<anchor-1,First anchor>>,
-xref:anchor-2[],
-xref:anchor-2[Second anchor].
-
-  
-
-Paragraph or block 1.
-
-Paragraph or block 2.
-
-[anchor-1], First anchor, [anchor-2], Second anchor.
-
-link:asciidoc[This document]
-link:asciidoc.html[]
-link:/index.html[This site root]
-
-	
-
-This document asciidoc.html This site root
-
-http://google.com
-http://google.com[Google Search]
-mailto:root@localhost[email admin]
-
+link:test[This document]
+link:test.html[]
+link:/[This site root]
